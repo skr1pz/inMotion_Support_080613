@@ -1,0 +1,8 @@
+<resources>
+
+    
+    <string name="html_path">/sdcard/Android/data/com.inmotion.support/</string>
+    <string name="html_index">index.html</string>
+    <string name="app_name">inmotion.support</string>
+
+</resources>
